@@ -11,7 +11,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 /**
  * Greet a person or group of people.
  *
- * @package SymfonyBucharest\UnderstandingConsoleBundle\Console
+ * @package SymfonyBucharest\UnderstandingConsoleBundle\Command
  * @author  Petre Pătrașc <petre@dreamlabs.ro>
  */
 class HelloWorldDemoCommand extends ContainerAwareCommand
