@@ -23,7 +23,7 @@ class DemoStandardColoringCommand extends ContainerAwareCommand
     {
         $this
             ->setName('demo:coloring:standard')
-            ->setDescription('Show off the standard styles available in Symfony');
+            ->setDescription('Show off the standard output styles available in Symfony');
     }
 
     /**
